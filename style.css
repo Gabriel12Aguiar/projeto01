@@ -12,7 +12,7 @@
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight: rgba(255, 255, 255, 0.2);
   --switch: url(./assets/moon-stars.svg);
-  --borda-foto: white;
+  --borda-foto: rgba(255, 255, 255, 0.5);
 }
 
 .light {
